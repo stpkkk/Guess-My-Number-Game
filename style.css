@@ -136,6 +136,7 @@ h1 {
   .wrapper {
     flex-direction: column;
     margin-top: 30px;
+    gap: 20px;
   }
 
   .guess {
@@ -154,10 +155,6 @@ h1 {
   .info {
     margin-top: 2rem;
     font-size: 1.5rem;
-  }
-
-  .buttons {
-    margin-bottom: 2rem;
   }
 
   .message {
